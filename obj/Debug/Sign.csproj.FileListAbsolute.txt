@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Sign\bin\Debug\Sign.exe.config
+C:\Users\admin\source\repos\Sign\bin\Debug\Sign.exe
+C:\Users\admin\source\repos\Sign\bin\Debug\Sign.pdb
+C:\Users\admin\source\repos\Sign\obj\Debug\Sign.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Sign\obj\Debug\Sign.Properties.Resources.resources
+C:\Users\admin\source\repos\Sign\obj\Debug\Sign.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Sign\obj\Debug\Sign.exe
+C:\Users\admin\source\repos\Sign\obj\Debug\Sign.pdb
+C:\Users\admin\source\repos\Sign\obj\Debug\Sign.Sign.resources
